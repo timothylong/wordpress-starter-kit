@@ -1,4 +1,4 @@
-# WP-Tackle
+# wp-start
 
 A toolkit for rapid Wordpress development.
 
