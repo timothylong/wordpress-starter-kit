@@ -1,4 +1,4 @@
-# wp-start
+# Wordpress Starter Kit
 
 A toolkit for rapid Wordpress development.
 
