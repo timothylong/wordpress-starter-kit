@@ -1,6 +1,6 @@
 # Wordpress Starter Kit
 
-A toolkit for rapid Wordpress development.
+A toolkit for quick theming.
 
 * Basic theme structure
 * The Loop
